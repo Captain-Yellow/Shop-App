@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml</file>
+        <file>qml/logic</file>
+        <file>qml/model</file>
+        <file>qml/pages</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>face.jpg</file>
+    </qresource>
+</RCC>
